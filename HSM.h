@@ -1,9 +1,3 @@
-/** @file HSM.c
- * 	@brief This file includes the HSM functions and initial a basic HSM.
- * 	@author Navid Baghaee
- * 	@date 04/08/2023
- */
-
 #ifndef HSM_H
 #define HSM_H
 
